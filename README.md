@@ -57,7 +57,7 @@
     </a>
 <!-- POWER BI-->
 <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> 
-    <img src="https://store-images.s-microsoft.com/image/apps.32245.13510798883380398.61d03499-1b25-4924-9207-9384fe3b5b99.3a505d26-d272-4f46-a46b-46dd22268443" alt="power bi" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="power bi" width="40" height="40" />
     </a>
 
 <!-- RAPID MINER     -->
