@@ -70,19 +70,19 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="right"
+<p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=VrushabhTawde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="VrushabhTawde" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VrushabhTawde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=VrushabhTawde&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="VrushabhTawde" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VrushabhTawde&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="VrushabhTawde" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=VrushabhTawde&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="VrushabhTawde" /></p>
 
 <!-- <br>
 <h3>Trophies :-</h3>
