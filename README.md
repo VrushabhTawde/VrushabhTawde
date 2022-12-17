@@ -1,4 +1,4 @@
-(https://gpvc.arturio.dev/VrushabhTawde
+https://gpvc.arturio.dev/VrushabhTawde
 <h1 align="center">Hi 👋, I'm Vrushabh Tawde</h1>
 <h3 align="center">Student at RAIT,Navi Mumbai🌟.</h3>
 
