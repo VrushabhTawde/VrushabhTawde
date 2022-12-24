@@ -6,10 +6,10 @@
 
 <br>
 
-<!-- <p align="right"> <h3>Profile Views :-</h3> 
+<p align="right"> <h3>Profile Views :-</h3> 
 <img src="https://komarev.com/ghpvc/?username=VrushabhTawde&label=Profile%20views&color=0e75b6&style=flat"
     alt="VrushabhTawde" /> 
-  </p> -->
+  </p>
 
 <br>
 
