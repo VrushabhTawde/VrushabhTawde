@@ -10,11 +10,11 @@
 <img src="https://komarev.com/ghpvc/?username=VrushabhTawde&label=Profile%20views&color=0e75b6&style=flat"
     alt="VrushabhTawde" /> 
   </p>
-
+<!-- 
 <br>
 <div align="center">
 <img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/banner.png"/>
-</div>
+</div> -->
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/vrushabh-tawde-a34140202/)
